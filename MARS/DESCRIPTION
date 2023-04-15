@@ -2,9 +2,9 @@ Package: MARS
 Title: Multivariate Adaptive Regression Splines
 Version: 0.0.1.9000
 Authors@R: 
-    person("Rachel", "Oh")
-    person("Sho", "Inagaki")
-    person("Isaac", "Baguisa")
+    person("Rachel ","Oh", , "ohdaeuno@sfu.ca", role = c("aut", "cre"))
+    person("Sho ","Inagaki", , "sia15@sfu.ca", role = c("aut", "cre"))
+    person("Isaac ","Baguisa", , "iab@sfu.ca", role = c("aut", "cre"))
 
 Description: What the package does (one paragraph).
 License: AGPL (>= 3)
